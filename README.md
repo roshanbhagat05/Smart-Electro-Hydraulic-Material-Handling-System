@@ -7,30 +7,7 @@
 > **PLC-Controlled Industrial Automation Project**  
 > Integrating hydraulic power with intelligent electronic control for modern manufacturing
 
-![System Overview](images/system-complete.jpg)
 
----
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Performance Metrics](#performance-metrics)
-- [Process Flow](#process-flow)
-- [Hardware Components](#hardware-components)
-- [PLC Programming](#plc-programming)
-- [Installation & Setup](#installation--setup)
-- [Safety Guidelines](#safety-guidelines)
-- [Applications](#applications)
-- [Results & Testing](#results--testing)
-- [Future Enhancements](#future-enhancements)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 🎯 Overview
 
